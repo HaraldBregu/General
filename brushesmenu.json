@@ -1,22 +1,30 @@
 [
     {
-        "title" : "Albania",
+        "id" : "BRUSHONEFREE00001",
+        "title" : "Brush OneFree",
         "description" : "The above copyright notice and this permission notice shall be included in",
+        "downloadType" : "FREE",
         "html" : "<html><html>"
     },
     {
-        "title" : "Italia",
+        "id" : "BRUSHONEFREE00002",
+        "title" : "Brush OneFree",
         "description" : "The above copyright notice and this permission notice shall be included in",
+        "downloadType" : "FREE",
+        "html" : "<html><html>"
+    }, 
+    {
+        "id" : "BRUSHONEFREE00003",
+        "title" : "Brush OneFree",
+        "description" : "The above copyright notice and this permission notice shall be included in",
+        "downloadType" : "FREE",
         "html" : "<html><html>"
     },
     {
-        "title" : "Russia",
+        "id" : "BRUSHPRO0000001",
+        "title" : "Brush Pro",
         "description" : "The above copyright notice and this permission notice shall be included in",
-        "html" : "<html><html>"
-    },
-    {
-        "title" : "Germany",
-        "description" : "The above copyright notice and this permission notice shall be included in",
+        "downloadType" : "SUBSCRIPTION",
         "html" : "<html><html>"
     }
 ]
