@@ -7,7 +7,7 @@
         "detailImageUrl": "https://raw.githubusercontent.com/HaraldBregu/General/master/paid_images/bardot-brush-copic-marker-procreate-brushes-by-bardot-brush-cover--fda3a553.jpeg",
         "fileUrl": "https://github.com/HaraldBregu/General/raw/master/files/Blur.brush",
         "downloadType" : "SUBSCRIPTION",
-        "productId" : "id_from_developer_apple_iap"
+        "productId" : "com.megageneral.brushesforprocreate.fileSubscriptionYearlyNotRenewable"
 
     },
     {
@@ -18,7 +18,7 @@
         "detailImageUrl": "https://raw.githubusercontent.com/HaraldBregu/General/master/paid_images/dry_brush_promo_1--2384aa8c.jpeg",
         "fileUrl": "https://github.com/HaraldBregu/General/raw/master/files/Blur.brush",
         "downloadType" : "SUBSCRIPTION",
-        "productId" : "id_from_developer_apple_iap"
+        "productId" : "com.megageneral.brushesforprocreate.fileSubscriptionYearlyNotRenewable"
     }, 
     {
         "id" : "FF5B76EAB61D40C6A7FCF29D73E8A97D",
@@ -28,7 +28,7 @@
         "detailImageUrl": "https://raw.githubusercontent.com/HaraldBregu/General/master/paid_images/gvw_procreate_megapack_cover_don_550_square_002_medium2--d6612c51.jpeg",
         "fileUrl": "https://github.com/HaraldBregu/General/raw/master/files/Blur.brush",
         "downloadType" : "SUBSCRIPTION",
-        "productId" : "id_from_developer_apple_iap"
+        "productId" : "com.megageneral.brushesforprocreate.fileSubscriptionYearlyNotRenewable"
     },
     {
         "id" : "28EAC1CE8994494980078BB73E6E6010",
@@ -38,7 +38,7 @@
         "detailImageUrl": "https://raw.githubusercontent.com/HaraldBregu/General/master/paid_images/megapack-ava32432--fb9d2dce.jpeg",
         "fileUrl": "https://github.com/HaraldBregu/General/raw/master/files/Blur.brush",
         "downloadType" : "SUBSCRIPTION",
-        "productId" : "id_from_developer_apple_iap"
+        "productId" : "com.megageneral.brushesforprocreate.fileSubscriptionYearlyNotRenewable"
     },
     {
         "id" : "84F3E8FFC032455EA71BCEE8CF2102E6",
@@ -48,7 +48,7 @@
         "detailImageUrl": "https://raw.githubusercontent.com/HaraldBregu/General/master/paid_images/procreate-brush-bundle-2019-1--e6a6a568.jpeg",
         "fileUrl": "https://github.com/HaraldBregu/General/raw/master/files/Blur.brush",
         "downloadType" : "SUBSCRIPTION",
-        "productId" : "id_from_developer_apple_iap"
+        "productId" : "com.megageneral.brushesforprocreate.fileSubscriptionYearlyNotRenewable"
     },
     {
         "id" : "434D15B17E914507888FDF1A6960F749",
@@ -58,7 +58,7 @@
         "detailImageUrl": "https://raw.githubusercontent.com/HaraldBregu/General/master/paid_images/untitled_artwork-4--37845773.jpeg",
         "fileUrl": "https://github.com/HaraldBregu/General/raw/master/files/Blur.brush",
         "downloadType" : "SUBSCRIPTION",
-        "productId" : "id_from_developer_apple_iap"
+        "productId" : "com.megageneral.brushesforprocreate.fileSubscriptionYearlyNotRenewable"
     },
     {
         "id" : "3CEECC13322B426BAE035775F94A7E15",
@@ -68,6 +68,6 @@
         "detailImageUrl": "https://raw.githubusercontent.com/HaraldBregu/General/master/paid_images/watercolor-flowers-creator-1--36b7120c.jpeg",
         "fileUrl": "https://github.com/HaraldBregu/General/raw/master/files/Blur.brush",
         "downloadType" : "SUBSCRIPTION",
-        "productId" : "id_from_developer_apple_iap"
+        "productId" : "com.megageneral.brushesforprocreate.fileSubscriptionYearlyNotRenewable"
     }
 ]
